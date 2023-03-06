@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Hi there! I'm Prabhakaran,<br>A student passionate about technology and programming.<br>Currently, I'm pursuing B.E Computer Science Engineering<br>and learning various programming languages such as [java], [python]<br>I believe in the power of collaboration and open-source projects,<br>which is why I love contributing to open-source projects whenever I can.<br>In my free time, you'll find me experimenting with new technologies, working on personal projects<br>I'm always looking for opportunities to learn and grow
+"Hi there! I'm Prabhakaran,<br>A student passionate about technology and programming.<br>Currently, I'm pursuing B.E Computer Science Engineering<br>and learning various programming languages such as [java], [python]<br>I believe in the power of collaboration and open-source projects,<br>which is why I love contributing to open-source projects whenever I can.<br>In my free time, you'll find me experimenting with new technologies<br>I'm always looking for opportunities to learn and grow
 
 
 ## 🌐 Socials:
